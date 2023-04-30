@@ -1,5 +1,13 @@
 
 
+## read this btw
+
+**Currently,** me, [sahab8] is trying to fix IslamBot. Recently, IslamBot has gone down in servers i'm in and im trying to currently identify the problem. This will be used to fix the bot with. Thank you!
+
+## BELOW IS OG ##
+
+
+
 # IslamBot  
  ![GitHub contributors](https://img.shields.io/github/contributors/galacticwarrior9/IslamBot) [![Discord](https://img.shields.io/discord/610613297452023837?label=Support%20Server)](https://discord.gg/Ud3MHJR)  
 
