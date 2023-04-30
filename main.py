@@ -9,6 +9,7 @@ from hijri_calendar.hijri_calendar import HijriCalendar
 config = configparser.ConfigParser()
 config.read('config.ini')
 
+# Takes token from IslamBot's config.ini.
 token = config['IslamBot']['token']
 
 description = "A Discord bot with Islamic utilities. View Qur'an, hadith, prayer times and more."
