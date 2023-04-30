@@ -62,7 +62,7 @@ hadith_collection_aliases = {
 }
 
 
-INVALID_COLLECTION = f'**Invalid hadith collection.**\nValid collection names are `{HADITH_COLLECTION_LIST}`'
+INVALID_COLLECTION = f'**Hadith is invalid or has not been found.**\nValid collection names are `{HADITH_COLLECTION_LIST}`'
 
 HEADERS = {"X-API-Key": API_KEY}
 
